@@ -1,0 +1,20 @@
+{
+  "hotkey_fix_last_word": "alt+`",
+  "hotkey_fix_selection": "alt+shift+`",
+  "auto_mode": false,
+  "auto_mode_trigger_keys": [
+    "space",
+    "enter"
+  ],
+  "convert_ratio": 0.6,
+  "allowlist_processes": [],
+  "denylist_processes": [
+    "cmd.exe",
+    "powershell.exe",
+    "windowsterminal.exe"
+  ],
+  "show_panel_on_start": true,
+  "panel_top_offset": 12,
+  "panel_right_offset": 12,
+  "enabled": false
+}

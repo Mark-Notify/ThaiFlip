@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="300" viewBox="0 0 960 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Inter', 'Poppins', 'Segoe UI', Arial, sans-serif; font-weight: 700; }
+  </style>
+  <!-- glyph -->
+  <g transform="translate(60,150)">
+    <circle r="72" fill="#1E1F26"/>
+    <g>
+      <!-- T -->
+      <rect x="-42" y="-28" width="66" height="12" fill="#FFFFFF"/>
+      <rect x="-15" y="-16" width="12" height="54" fill="#FFFFFF"/>
+      <!-- F -->
+      <rect x="12" y="-24" width="12" height="62" fill="#FFFFFF"/>
+      <rect x="24" y="-24" width="34" height="12" fill="#FFFFFF"/>
+      <rect x="24" y="0" width="24" height="12" fill="#FFFFFF"/>
+      <!-- flip arrows -->
+      <path d="M-52,-2 A54 54 0 0 1 36 -32" fill="none" stroke="#1CB941" stroke-width="7" stroke-linecap="round"/>
+      <polygon points="41,-36 34,-22 52,-26" fill="#1CB941"/>
+      <path d="M52,2 A54 54 0 0 1 -36 32" fill="none" stroke="#1CB941" stroke-width="7" stroke-linecap="round"/>
+      <polygon points="-41,36 -34,22 -52,26" fill="#1CB941"/>
+    </g>
+  </g>
+  <!-- wordmark -->
+  <g transform="translate(160,165)">
+    <text x="0" y="0" font-size="96" class="title" fill="#1E1F26">Thai</text>
+    <text x="280" y="0" font-size="96" class="title" fill="#1CB941">Flip</text>
+    <!-- i dot highlight (small green circle above the 'i' in Thai) -->
+    <circle cx="180" cy="-62" r="7" fill="#1CB941"/>
+  </g>
+</svg>
