@@ -27,7 +27,7 @@
 
 ## Export Tips
 - Windows app `.ico`: export PNGs at 256/128/64/32/16 px then combine into .ico (ImageMagick or online).
-- For the Tray in ThaiFlip code, you can keep using the base icon; the app will draw ✔️/🔴 overlays at runtime.
+- For the Tray in ThaiFlip code, you can keep using the base icon; the app will draw 🟢/🔴 overlays at runtime.
 
 
 ## ติดตั้ง (Windows)
