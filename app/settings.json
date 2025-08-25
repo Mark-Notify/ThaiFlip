@@ -1,6 +1,6 @@
 {
-  "hotkey_fix_last_word": "alt+`",
-  "hotkey_fix_selection": "alt+shift+`",
+  "hotkey_fix_last_word": "alt+grave",
+  "hotkey_fix_selection": "alt+shift+grave",
   "auto_mode": false,
   "auto_mode_trigger_keys": [
     "space",
